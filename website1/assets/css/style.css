@@ -5,3 +5,10 @@
 #miP{
     font-size: 19px;
 }
+.fondo{
+    background: url(../img/bg.jpg);
+    min-width: 100%;
+ height: 800px;
+  background-size: cover;
+  background-position: center;
+}
